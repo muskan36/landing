@@ -277,12 +277,18 @@ margin-right: 20px;
   .bg{
     width:1683px;
   }
+  .li{
+    font-size:26px ;
+  }
   .nav{
     width:1512px;
+    height:100px;
   }
   #foot{
     width:1683px;
+    height:200px;
     margin-top:2780px;
+    font-size: 26px;
   }
   .paras{
     
@@ -302,15 +308,18 @@ margin-right: 20px;
   }
   .lt{
     font-size: 30px;
-    margin-top: 15px; 
+    margin-top: 15px;
+    font-weight: 1000; 
   }
   .lto{
     font-size: 30px;
     margin-top: 15px;
+    font-weight: 1000;
   }
   .lti{
     font-size: 30px;
     margin-top: 15px;
+    font-weight: 1000;
   }
   #h{
     font-size: 40px;
